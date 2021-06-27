@@ -45,7 +45,7 @@
 ## 設計書
 
 ### ER図
-<https://drive.google.com/file/d/15UqbhK-aapvd2XWvi0vgNqAuq3ApDnoe/view?usp=sharing>
+https://app.diagrams.net/#G1pCjG5A3lx7LoYzwKrjJtYHfhmbfQa8uL
 
 ## 機能一覧
 
