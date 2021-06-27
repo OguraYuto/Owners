@@ -100,3 +100,4 @@ https://docs.google.com/spreadsheets/d/1zYaHEBrVYdKGm5i3wVgvqxcngStebhYQ_qWhvrrk
 <https://o-dan.net/ja/>  
 「Adobe Fonts」フォント利用(源ノ角ゴシック JP )  
 <https://fonts.adobe.com/>
+# Owners
