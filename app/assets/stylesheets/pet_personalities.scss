@@ -1,0 +1,17 @@
+// Place all the styles related to the PetPersonalities controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$personality-modal-width: 600px;
+.personality-modal {
+  display: none;
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  border-radius: 5px;
+  background-color: white;
+  height: 430px;
+   z-index: 98;
+  width: $personality-modal-width;
+  margin-left: -($personality-modal-width / 2);
+}
