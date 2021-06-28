@@ -66,7 +66,7 @@ https://app.diagrams.net/#G1pCjG5A3lx7LoYzwKrjJtYHfhmbfQa8uL
 
 詳細は下記よりご確認ください
 
-https://docs.google.com/spreadsheets/d/1QgbOqj9JplcO2z5koDagPE6vQ5LdOuGXC7I19b-n9Ww/edit#gid=0
+https://docs.google.com/spreadsheets/d/1QgbOqj9JplcO2z5koDagPE6vQ5LdOuGXC7I19b-n9Ww/edit?usp=sharing
 
 ## 開発環境
 
